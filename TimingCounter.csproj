@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <PackageId>devcutler.TimingCounter</PackageId>
-    <Version>1.0.0</Version>
+    <Version>1.0.1</Version>
     <Authors>devcutler</Authors>
     <Description>A simple bespoke timing library for getting frame timings.</Description>
     <PackageReadmeFile>README.md</PackageReadmeFile>

@@ -1,4 +1,6 @@
-# Firewood
+# TimingCounter
+
+*Highly* inefficient.
 
 ### Usage
 
