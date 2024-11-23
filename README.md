@@ -1,7 +1,5 @@
 # TimingCounter
 
-*Highly* inefficient.
-
 ### Usage
 
 #### Installing
